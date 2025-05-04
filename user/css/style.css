@@ -965,3 +965,18 @@ h1 {
 .main-content {
     flex: 1 0 auto;
 }
+
+.item-stock, #product-availability {
+    background: #111;
+    color: #fff;
+    padding: 6px 18px;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 0;
+    width: auto;
+    min-width: 0;
+    max-width: 100%;
+}
